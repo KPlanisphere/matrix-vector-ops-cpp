@@ -1,4 +1,4 @@
-# Project Title: Matrix Vector Operations in C++
+# Matrix Vector Operations in C++
 
 ### Description
 
